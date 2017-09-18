@@ -1,0 +1,8 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.Config\bin\Debug\Core.Config.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.Config\bin\Debug\Core.Config.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.Config\obj\Debug\Core.Config.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.Config\obj\Debug\Core.Config.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Core\Core.Config\bin\Debug\Core.Config.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Core\Core.Config\bin\Debug\Core.Config.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Core\Core.Config\obj\Debug\Core.Config.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Core\Core.Config\obj\Debug\Core.Config.pdb

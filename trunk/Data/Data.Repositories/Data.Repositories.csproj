@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1526AAFB-D4E8-480D-9002-7845A6031214}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Data.Repositories</RootNamespace>
+    <AssemblyName>Data.Repositories</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\Libs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Libs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Generated\AftersaleapplyinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\AftersalecertificateRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\AftersaleguaranteeRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\BalancerecordRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\BrandinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\CashrecordRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ChinaareainfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\DeductiblerecordRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\DeliveryinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\DepartmentbankcardbindinginfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IAftersaleapplyinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IAftersalecertificateRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IAftersaleguaranteeRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IBalancerecordRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IBrandinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ICashrecordRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IChinaareainfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IDeductiblerecordRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IDeliveryinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IDepartmentbankcardbindinginfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IImagesinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ImagesinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IMarketinginfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IMemberpersonainfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IMenuinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IMenuroleoperationRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IOrderdetailinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IOrderinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IPersoninfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IPlatforminfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProductdescriptRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProductguaranteeRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProductinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProductkindinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProductshowinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProducttypeinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IProparamsettingRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IRepositories.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IRoleinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IRolepersonrelationRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ISalepricerecordRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IShelfinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IShipaddresssettingRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IShippingaddresssettingRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IShoppingcartinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ISupplieremployeeRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ISupplierinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IWarehouseinfoRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\IWithdrawrecordRepository.Generated.cs">
+      <DependentUpon>IRepositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\MarketinginfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\MemberpersonainfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\MenuinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\MenuroleoperationRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\OrderdetailinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\OrderinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\PersoninfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\PlatforminfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProductdescriptRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProductguaranteeRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProductinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProductkindinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProductshowinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProducttypeinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ProparamsettingRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\Repositories.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\RoleinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\RolepersonrelationRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\SalepricerecordRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ShelfinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ShipaddresssettingRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ShippingaddresssettingRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\ShoppingcartinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\SupplieremployeeRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\SupplierinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\WarehouseinfoRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Generated\WithdrawrecordRepository.Generated.cs">
+      <DependentUpon>Repositories.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Generated\IRepositories.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>IRepositories.cs</LastGenOutput>
+    </None>
+    <None Include="Generated\Repositories.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Repositories.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.DataEntity\Common.DataEntity.csproj">
+      <Project>{bd34e03a-678d-4dea-ac36-f3a71ac5ec7a}</Project>
+      <Name>Common.DataEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.Logging\Common.Logging.csproj">
+      <Project>{09B7FA53-1B1C-4199-91BB-0EABE1A280DA}</Project>
+      <Name>Common.Logging</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.Repository\Common.Repository.SqlSugar.csproj">
+      <Project>{20f5d29c-bb62-461d-82c2-d9ccab707dfd}</Project>
+      <Name>Common.Repository.SqlSugar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.Tools\Common.Tools.csproj">
+      <Project>{B0CB5C13-B334-4DA8-8267-2E2B42B9F023}</Project>
+      <Name>Common.Tools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.WebEntity\Common.WebEntity.csproj">
+      <Project>{915810E8-DABF-452D-A33E-F82057132DE6}</Project>
+      <Name>Common.WebEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.Web\Common.Web.csproj">
+      <Project>{50b05137-7608-4607-a278-70ae46752881}</Project>
+      <Name>Common.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\MySqlSugar\MySqlSugar.csproj">
+      <Project>{46A17E67-7E3E-4369-9B1F-43BA34BBDAEF}</Project>
+      <Name>MySqlSugar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Core.EnumType\Core.EnumType.csproj">
+      <Project>{105694CD-48D6-404E-8AC1-1F994D9DC946}</Project>
+      <Name>Core.EnumType</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Core\Core.Model\Core.Model.csproj">
+      <Project>{73EC626F-1763-41A5-8FE6-C0022E7C1EFA}</Project>
+      <Name>Core.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cach.MongoRepositories\Cach.MongoRepositories.csproj">
+      <Project>{19DC709D-3BEA-4C6E-91C1-2BAA77016A8F}</Project>
+      <Name>Cach.MongoRepositories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Entities\Data.Entities.csproj">
+      <Project>{b2b70ce5-1669-4cfb-8305-7a986f6b890c}</Project>
+      <Name>Data.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

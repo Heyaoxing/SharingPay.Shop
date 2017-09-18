@@ -1,0 +1,4 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Safety\bin\Release\Common.Safety.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Safety\bin\Release\Common.Safety.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Safety\obj\Release\Common.Safety.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Safety\obj\Release\Common.Safety.pdb

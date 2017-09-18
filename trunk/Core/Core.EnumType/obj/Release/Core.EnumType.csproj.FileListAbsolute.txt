@@ -1,0 +1,10 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Core.EnumType.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Core.EnumType.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Common.Tools.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Common.Safety.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Common.Tools.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\Common.Safety.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\obj\Release\Core.EnumType.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\obj\Release\Core.EnumType.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\obj\Release\Core.EnumType.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Core\Core.EnumType\bin\Release\NPOI.dll

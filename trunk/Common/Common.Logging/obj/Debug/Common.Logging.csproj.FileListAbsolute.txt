@@ -1,0 +1,15 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\bin\Debug\Log4net.config
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\bin\Debug\Common.Logging.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\bin\Debug\Common.Logging.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\bin\Debug\log4net.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\bin\Debug\log4net.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\obj\Debug\Common.Logging.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\obj\Debug\Common.Logging.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Logging\obj\Debug\Common.Logging.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\bin\Debug\Log4net.config
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\bin\Debug\Common.Logging.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\bin\Debug\Common.Logging.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\bin\Debug\log4net.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\bin\Debug\log4net.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\obj\Debug\Common.Logging.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Logging\obj\Debug\Common.Logging.pdb

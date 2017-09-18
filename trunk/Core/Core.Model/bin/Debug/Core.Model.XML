@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.Model</name>
+    </assembly>
+    <members>
+        <member name="T:Core.Model.ResultObject">
+            <summary>
+            通用返回实体
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultObject.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultObject.StatusCode">
+            <summary>
+            返回状态码
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultObject.Message">
+            <summary>
+            返回提示信息
+            </summary>
+        </member>
+        <member name="T:Core.Model.ResultObject`1">
+            <summary>
+            通用返回实体
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Core.Model.ResultObject`1.Data">
+            <summary>
+            自定义返回信息
+            </summary>
+        </member>
+        <member name="T:Core.Model.ResultPaging`1">
+            <summary>
+            通用返回实体,分页类
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.StatusCode">
+            <summary>
+            返回状态码
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.Message">
+            <summary>
+            返回提示信息
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.PageIndex">
+            <summary>
+            当前页数
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.PageSize">
+            <summary>
+            当前显示页数.默认10
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.Total">
+            <summary>
+            总条数
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultPaging`1.Data">
+            <summary>
+            自定义返回信息
+            </summary>
+        </member>
+        <member name="T:Core.Model.ResultToken">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultToken.Token">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Core.Model.ResultModel">
+            <summary>
+            通用返回实体
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultModel.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultModel.Message">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="T:Core.Model.ResultModel`1">
+            <summary>
+            通用返回实体
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Core.Model.ResultModel`1.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultModel`1.Message">
+            <summary>
+            结果信息
+            </summary>
+        </member>
+        <member name="P:Core.Model.ResultModel`1.Data">
+            <summary>
+            自定义返回信息
+            </summary>
+        </member>
+        <member name="T:Core.Model.TokenModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Core.Model.TokenModel.StaffId">
+            <summary>
+            Token密文（因前期客户端调用传入该参数，后期以该参数存储Token值）
+            </summary>
+        </member>
+        <member name="P:Core.Model.TokenModel.SignToken">
+            <summary>
+            Token
+            </summary>
+        </member>
+        <member name="P:Core.Model.TokenModel.ExpireTime">
+            <summary>
+            Token过期时间
+            </summary>
+        </member>
+    </members>
+</doc>

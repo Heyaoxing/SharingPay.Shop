@@ -1,0 +1,10 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Common.Tools.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Common.Tools.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Common.Safety.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Common.Safety.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\obj\Release\Common.Tools.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\obj\Release\Common.Tools.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\obj\Release\Common.Tools.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Core.Config.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\Core.Config.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Tools\bin\Release\NPOI.dll

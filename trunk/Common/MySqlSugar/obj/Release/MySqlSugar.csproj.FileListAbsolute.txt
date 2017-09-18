@@ -1,0 +1,9 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\MySqlSugar.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\MySqlSugar.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\MySqlSugar.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\Common.WebEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\MySql.Data.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\bin\Release\Common.WebEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\obj\Release\MySqlSugar.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\obj\Release\MySqlSugar.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MySqlSugar\obj\Release\MySqlSugar.pdb

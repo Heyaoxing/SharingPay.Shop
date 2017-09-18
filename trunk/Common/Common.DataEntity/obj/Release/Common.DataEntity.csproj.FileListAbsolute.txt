@@ -1,0 +1,4 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\bin\Release\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\bin\Release\Common.DataEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\obj\Release\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\obj\Release\Common.DataEntity.pdb

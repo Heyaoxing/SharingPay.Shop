@@ -1,0 +1,16 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoRepository.Net45.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoRepository.Net45.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Bson.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Driver.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Bson.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Driver.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\obj\Debug\MongoRepository.Net45.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.MongoRepository\obj\Debug\MongoRepository.Net45.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoRepository.Net45.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoRepository.Net45.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Bson.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Driver.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Bson.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\bin\Debug\MongoDB.Driver.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\obj\Debug\MongoRepository.Net45.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.MongoRepository\obj\Debug\MongoRepository.Net45.pdb

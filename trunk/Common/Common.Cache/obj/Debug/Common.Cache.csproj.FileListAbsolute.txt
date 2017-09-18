@@ -1,0 +1,17 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\Common.Cache.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\Common.Cache.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\Newtonsoft.Json.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\StackExchange.Redis.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\Newtonsoft.Json.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\bin\Debug\StackExchange.Redis.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\obj\Debug\Common.Cache.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\obj\Debug\Common.Cache.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.Cache\obj\Debug\Common.Cache.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\Common.Cache.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\Common.Cache.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\Newtonsoft.Json.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\StackExchange.Redis.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\Newtonsoft.Json.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\bin\Debug\StackExchange.Redis.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\obj\Debug\Common.Cache.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.Cache\obj\Debug\Common.Cache.pdb

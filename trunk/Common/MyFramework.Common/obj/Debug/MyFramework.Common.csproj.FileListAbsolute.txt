@@ -1,0 +1,8 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MyFramework.Common\bin\Debug\MyFramework.Common.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MyFramework.Common\bin\Debug\MyFramework.Common.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MyFramework.Common\obj\Debug\MyFramework.Common.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\MyFramework.Common\obj\Debug\MyFramework.Common.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\MyFramework.Common\bin\Debug\MyFramework.Common.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\MyFramework.Common\bin\Debug\MyFramework.Common.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\MyFramework.Common\obj\Debug\MyFramework.Common.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\MyFramework.Common\obj\Debug\MyFramework.Common.pdb

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.EnumType</name>
+    </assembly>
+    <members>
+        <member name="T:Core.EnumType.StatusCodeEnum">
+            <summary>
+            返回状态码
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.Success">
+             <summary>
+            处理成功
+             </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.IsRegisterMobile">
+             <summary>
+            手机号已被注册
+             </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.NoFoundUser">
+             <summary>
+            用户不存在
+             </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.Error">
+            <summary>
+            内部请求出错
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.Unauthorized">
+            <summary>
+            未授权标识
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.ParameterError">
+            <summary>
+            请求参数不完整或不正确
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.TokenInvalid">
+            <summary>
+            请求TOKEN失效
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.HttpMehtodError">
+            <summary>
+            HTTP请求类型不合法
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.HttpRequestError">
+            <summary>
+            HTTP请求不合法,请求参数可能被篡改
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.URLExpireError">
+            <summary>
+            该URL已经失效
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.SMSSendError">
+            <summary>
+            短信发送失败
+            </summary>
+        </member>
+        <member name="F:Core.EnumType.StatusCodeEnum.IdentifyingCodeError">
+            <summary>
+            验证码错误
+            </summary>
+        </member>
+    </members>
+</doc>

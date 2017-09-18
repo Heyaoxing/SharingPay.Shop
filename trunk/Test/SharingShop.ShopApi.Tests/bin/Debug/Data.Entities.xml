@@ -1,0 +1,1673 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Data.Entities</name>
+    </assembly>
+    <members>
+        <member name="T:Data.Entities.Aftersaleapplyinfo">
+            <summary>
+            实体-Aftersaleapplyinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.ASAId">
+            <summary>  
+            售后申请表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.OrderDetailId">
+            <summary>  
+            订单详情列表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.MPId">
+            <summary>  
+            会员个人中心Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.PersonId">
+            <summary>  
+            审核人员id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.AfterSaleType">
+            <summary>  
+            售后类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.Reason">
+            <summary>  
+            售后理由  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.ErrorMessage">
+            <summary>  
+            失败原因  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.ReviewOn">
+            <summary>  
+            审核时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.ApplyOn">
+            <summary>  
+            申请时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleapplyinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Aftersalecertificate">
+            <summary>
+            实体-Aftersalecertificate 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersalecertificate.ASCId">
+            <summary>  
+            售后凭证表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersalecertificate.ImageId">
+            <summary>  
+            图片信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersalecertificate.ASAId">
+            <summary>  
+            售后申请表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersalecertificate.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Aftersaleguarantee">
+            <summary>
+            实体-Aftersaleguarantee 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleguarantee.ASGId">
+            <summary>  
+            售后保障表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleguarantee.Name">
+            <summary>  
+            售后名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Aftersaleguarantee.IsRemove">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Balancerecord">
+            <summary>
+            实体-Balancerecord 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.BRId">
+            <summary>  
+            资金流水表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.WithdrawId">
+            <summary>  
+            提现记录表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.OrderDetailId">
+            <summary>  
+            订单详情列表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.Money">
+            <summary>  
+            金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.OldMoney">
+            <summary>  
+            快照金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.ChangeType">
+            <summary>  
+            变动类型 100: 商品销售收入 200: 提醒支出 300: 提现手续费支出  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.ChargeType">
+            <summary>  
+            收支类型 100:收入 200:支出 300:冲销  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Balancerecord.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Brandinfo">
+            <summary>
+            实体-Brandinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Brandinfo.BrandId">
+            <summary>  
+            品牌信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Brandinfo.Name">
+            <summary>  
+            品牌名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Brandinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Brandinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Cashrecord">
+            <summary>
+            实体-Cashrecord 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.CashId">
+            <summary>  
+            平台现金入账流水Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.PlatformId">
+            <summary>  
+            平台信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.OrderId">
+            <summary>  
+            订单信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.PayWay">
+            <summary>  
+            支付类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.PayMoney">
+            <summary>  
+            支付金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Cashrecord.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Chinaareainfo">
+            <summary>
+            实体-Chinaareainfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.AreaID">
+            <summary>  
+            全国地理位置信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.Name">
+            <summary>  
+            名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.ParentId">
+            <summary>  
+            父级id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.ShortName">
+            <summary>  
+            简称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.LevelType">
+            <summary>  
+            层级  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.CityCode">
+            <summary>  
+            城市代码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.ZipCode">
+            <summary>  
+            邮编  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.MergerName">
+            <summary>  
+            完整地区名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.lng">
+            <summary>  
+            经度  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.Lat">
+            <summary>  
+            纬度  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Chinaareainfo.Pinyin">
+            <summary>  
+            拼音  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Deductiblerecord">
+            <summary>
+            实体-Deductiblerecord 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.DeductibleId">
+            <summary>  
+            平台积分抵扣流水Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.PlatformId">
+            <summary>  
+            平台信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.OrderId">
+            <summary>  
+            订单信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.DeductibleType">
+            <summary>  
+            抵扣类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.Money">
+            <summary>  
+            抵扣金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deductiblerecord.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Deliveryinfo">
+            <summary>
+            实体-Deliveryinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.DeliveryId">
+            <summary>  
+            物流信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.OrderId">
+            <summary>  
+            订单信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.OrderCode">
+            <summary>  
+            订单编码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.SASId">
+            <summary>  
+            收货地址配置表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.TrackNumber">
+            <summary>  
+            运单号  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.Freight">
+            <summary>  
+            运费  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Deliveryinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Departmentbankcardbindinginfo">
+            <summary>
+            实体-Departmentbankcardbindinginfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.MBCBIId">
+            <summary>  
+            银行卡绑定表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.BankName">
+            <summary>  
+            开户银行名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.BankAddress">
+            <summary>  
+            开户网点地址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.BankPosition">
+            <summary>  
+            开户网点名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.BankAccount">
+            <summary>  
+            银行卡帐号  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.CardType">
+            <summary>  
+            银行卡类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.HolderName">
+            <summary>  
+            开户人真实姓名  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Departmentbankcardbindinginfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Imagesinfo">
+            <summary>
+            实体-Imagesinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.ImageId">
+            <summary>  
+            图片信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.ImgUrl">
+            <summary>  
+            图片Url  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.MDCode">
+            <summary>  
+            图片MD5值  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.DiscUrl">
+            <summary>  
+            磁盘路径  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.Size">
+            <summary>  
+            图片尺寸  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Imagesinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Marketinginfo">
+            <summary>
+            实体-Marketinginfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.MarketingId">
+            <summary>  
+            商品营销表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.ClickNumber">
+            <summary>  
+            商品点击量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.IsNew">
+            <summary>  
+            是否新品 0:否 1:是  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.IsHot">
+            <summary>  
+            是否热销 0:否 1:是  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.CartVolume">
+            <summary>  
+            被放购物车数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.SalesVolume">
+            <summary>  
+            销售数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Marketinginfo.UpdatedOn">
+            <summary>  
+            更新时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Memberpersonainfo">
+            <summary>
+            实体-Memberpersonainfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Memberpersonainfo.MPId">
+            <summary>  
+            会员个人中心Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Memberpersonainfo.MemberId">
+            <summary>  
+            MemberId  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Memberpersonainfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Menuinfo">
+            <summary>
+            实体-Menuinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.MenuId">
+            <summary>  
+            菜单主键  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.ParentMenuId">
+            <summary>  
+            父级菜单  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Name">
+            <summary>  
+            名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Url">
+            <summary>  
+            网址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Iconic">
+            <summary>  
+            图标  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Sort">
+            <summary>  
+            排序  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.Remark">
+            <summary>  
+            备注  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.CreatedBy">
+            <summary>  
+            创建人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuinfo.UpdatedBy">
+            <summary>  
+            编辑人  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Menuroleoperation">
+            <summary>
+            实体-Menuroleoperation 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuroleoperation.MenuRoleId">
+            <summary>  
+            菜单角色主键  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuroleoperation.MenuId">
+            <summary>  
+            菜单主键  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Menuroleoperation.Id">
+            <summary>  
+            角色主键  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Orderdetailinfo">
+            <summary>
+            实体-Orderdetailinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.OrderDetailId">
+            <summary>  
+            订单详情列表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.OrderId">
+            <summary>  
+            订单信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.kindId">
+            <summary>  
+            商品种类表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.ShelfId">
+            <summary>  
+            ShelfId  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.ProductCode">
+            <summary>  
+            商品编码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.SmallImageId">
+            <summary>  
+            商品缩略图  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.OriginalImageId">
+            <summary>  
+            商品原图  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.Name">
+            <summary>  
+            商品名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.SaleQuantity">
+            <summary>  
+            购买数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.MarketPrice">
+            <summary>  
+            商品单市场价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.MemberPrice">
+            <summary>  
+            商品单会员价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderdetailinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Orderinfo">
+            <summary>
+            实体-Orderinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.OrderId">
+            <summary>  
+            订单信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.MPId">
+            <summary>  
+            会员个人中心Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.OrderCode">
+            <summary>  
+            订单编码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.PayWay">
+            <summary>  
+            支付方式  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.CashMoney">
+            <summary>  
+            现金支付金额   
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.CashBalance">
+            <summary>  
+            提现积分抵扣金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.ConBalance">
+            <summary>  
+            消费积分抵扣金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.IntegralBalance">
+            <summary>  
+            商城积分抵扣金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.Status">
+            <summary>  
+            订单状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.OrderTime">
+            <summary>  
+            下单时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.PayTime">
+            <summary>  
+            支付时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Orderinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Personinfo">
+            <summary>
+            实体-Personinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.PersonId">
+            <summary>  
+            Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.Account">
+            <summary>  
+            用户名  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.DepartmentId">
+            <summary>  
+            所属部门Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.Password">
+            <summary>  
+            密码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.PhoneNumber">
+            <summary>  
+            手机号  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.Email">
+            <summary>  
+            Email  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Personinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Platforminfo">
+            <summary>
+            实体-Platforminfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Platforminfo.PlatformId">
+            <summary>  
+            平台信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Platforminfo.Name">
+            <summary>  
+              
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Productdescript">
+            <summary>
+            实体-Productdescript 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productdescript.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productdescript.Descript">
+            <summary>  
+            商品描述  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productdescript.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productdescript.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Productguarantee">
+            <summary>
+            实体-Productguarantee 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productguarantee.PGId">
+            <summary>  
+            商品售后保障表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productguarantee.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productguarantee.ASGId">
+            <summary>  
+            售后保障表Id  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Productinfo">
+            <summary>
+            实体-Productinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.ProductCode">
+            <summary>  
+            商品编码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.ProductTypeId">
+            <summary>  
+            分类Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.SmallImageId">
+            <summary>  
+            商品缩略图  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.OriginalImageId">
+            <summary>  
+            商品原图  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.BrandId">
+            <summary>  
+            品牌信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.SASId">
+            <summary>  
+            商品发货地址表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.Name">
+            <summary>  
+            商品名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.GoodsRemark">
+            <summary>  
+            商品备注  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.SKU">
+            <summary>  
+            SKU  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Productkindinfo">
+            <summary>
+            实体-Productkindinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productkindinfo.kindId">
+            <summary>  
+            商品种类表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productkindinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productkindinfo.ImageId">
+            <summary>  
+            图片信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productkindinfo.Name">
+            <summary>  
+            种类名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productkindinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Productshowinfo">
+            <summary>
+            实体-Productshowinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productshowinfo.PSId">
+            <summary>  
+            商品图片展示Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productshowinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productshowinfo.ImageId">
+            <summary>  
+            图片信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productshowinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Productshowinfo.Sort">
+            <summary>  
+            分类顺序  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Producttypeinfo">
+            <summary>
+            实体-Producttypeinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Producttypeinfo.ProductTypeId">
+            <summary>  
+            分类Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Producttypeinfo.ParentId">
+            <summary>  
+            上级Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Producttypeinfo.Name">
+            <summary>  
+            分类名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Producttypeinfo.Sort">
+            <summary>  
+            分类顺序  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Producttypeinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Proparamsetting">
+            <summary>
+            实体-Proparamsetting 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Proparamsetting.ProParamId">
+            <summary>  
+            产品参数表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Proparamsetting.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Proparamsetting.ParamName">
+            <summary>  
+            参数名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Proparamsetting.ParamValue">
+            <summary>  
+            参数值  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Roleinfo">
+            <summary>
+            实体-Roleinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.Id">
+            <summary>  
+            角色主键  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.GroupType">
+            <summary>  
+            分组类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.RoleType">
+            <summary>  
+            角色类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.Name">
+            <summary>  
+            名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.Description">
+            <summary>  
+            描述  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.CreatedBy">
+            <summary>  
+            创建人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Roleinfo.UpdatedBy">
+            <summary>  
+            编辑人  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Rolepersonrelation">
+            <summary>
+            实体-Rolepersonrelation 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Rolepersonrelation.id">
+            <summary>  
+            id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Rolepersonrelation.PersonId">
+            <summary>  
+            人员表主键  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Rolepersonrelation.Rol_Id">
+            <summary>  
+            角色_角色主键  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Salepricerecord">
+            <summary>
+            实体-Salepricerecord 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.SRId">
+            <summary>  
+            售货流水表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.OrderDetailId">
+            <summary>  
+            订单详情列表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.SupplyPrice">
+            <summary>  
+            供应商价格  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.Freight">
+            <summary>  
+            运费  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.PayWay">
+            <summary>  
+            支付方式 100:支付宝 200:提现享付宝支付 300:购物享付宝加支付宝支付  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Salepricerecord.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Shelfinfo">
+            <summary>
+            实体-Shelfinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.ShelfId">
+            <summary>  
+            ShelfId  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.kindId">
+            <summary>  
+            商品种类表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.Quantity">
+            <summary>  
+            商品数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.MarketPrice">
+            <summary>  
+            市场价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.MemberPrice">
+            <summary>  
+            会员价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.Deductible">
+            <summary>  
+            积分抵扣  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.Freight">
+            <summary>  
+            运费  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.Status">
+            <summary>  
+            状态 100:下架 200:上架  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.shelvesOn">
+            <summary>  
+            上架时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.shelvesOff">
+            <summary>  
+            下架时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shelfinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Shipaddresssetting">
+            <summary>
+            实体-Shipaddresssetting 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.SASId">
+            <summary>  
+            商品发货地址表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.Addressee">
+            <summary>  
+            收件人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.MobilePhoneNumber">
+            <summary>  
+            联系手机  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.AreaID">
+            <summary>  
+            全国地理位置信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.Street">
+            <summary>  
+            街道地址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.ZipCode">
+            <summary>  
+            邮编  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.IsDefault">
+            <summary>  
+            是否默认 0:否 1:是  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shipaddresssetting.IsReomve">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Shippingaddresssetting">
+            <summary>
+            实体-Shippingaddresssetting 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.SASId">
+            <summary>  
+            收货地址配置表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.MPId">
+            <summary>  
+            会员个人中心Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.Addressee">
+            <summary>  
+            收件人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.MobilePhoneNumber">
+            <summary>  
+            手机号码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.isDefault">
+            <summary>  
+            是否默认  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.AreaID">
+            <summary>  
+            全国地理位置信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.Street">
+            <summary>  
+            街道地址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.ZipCode">
+            <summary>  
+            邮编  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.CrearedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shippingaddresssetting.IsRemove">
+            <summary>  
+            是否删除 0:否 1是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Shoppingcartinfo">
+            <summary>
+            实体-Shoppingcartinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.CartId">
+            <summary>  
+            购物车Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.kindId">
+            <summary>  
+            商品种类表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.ImageId">
+            <summary>  
+            商品缩略图  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.MPId">
+            <summary>  
+            会员个人中心Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.ShelfId">
+            <summary>  
+            ShelfId  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.Quantity">
+            <summary>  
+            商品数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.MarketPrice">
+            <summary>  
+            商品单市场价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.MemberPrice">
+            <summary>  
+            商品单会员价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.CreatedOn">
+            <summary>  
+              
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Shoppingcartinfo.UpdatedOn">
+            <summary>  
+              
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Supplieremployee">
+            <summary>
+            实体-Supplieremployee 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.EmployeeId">
+            <summary>  
+            供应商员工消息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.nickname">
+            <summary>  
+            昵称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.Account">
+            <summary>  
+            登录账户  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.Password">
+            <summary>  
+            登录密码  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplieremployee.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Supplierinfo">
+            <summary>
+            实体-Supplierinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.SupplierName">
+            <summary>  
+            供应商名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.ContactName">
+            <summary>  
+            联系人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.AreaID">
+            <summary>  
+            全国地理位置信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.Street">
+            <summary>  
+            联系地址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.Descropt">
+            <summary>  
+            供应商描述  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.Status">
+            <summary>  
+            状态 100:禁用 200:启用  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.Balance">
+            <summary>  
+            货款余额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.FreezeMoney">
+            <summary>  
+            冻结金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.IsRemove">
+            <summary>  
+            是否删除 0:否 1:是  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.PersonId">
+            <summary>  
+            创建人  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Supplierinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Warehouseinfo">
+            <summary>
+            实体-Warehouseinfo 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.WarehouseId">
+            <summary>  
+            仓库表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.ProductId">
+            <summary>  
+            商品Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.SupplyPrice">
+            <summary>  
+            供货单价  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.Quantity">
+            <summary>  
+            库存数量  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.UpdatedOn">
+            <summary>  
+            编辑时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Warehouseinfo.IsRemove">
+            <summary>  
+            状态 0:否 1:是  
+            </summary>
+        </member>
+        <member name="T:Data.Entities.Withdrawrecord">
+            <summary>
+            实体-Withdrawrecord 
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.WithdrawId">
+            <summary>  
+            提现记录表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.SupplierId">
+            <summary>  
+            供应商信息表Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.PersonId">
+            <summary>  
+            Id  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.WithdrawType">
+            <summary>  
+            提现类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.Money">
+            <summary>  
+            实到金额  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.WithdrawData">
+            <summary>  
+            提现日期  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.Status">
+            <summary>  
+            状态  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.WithdrawFee">
+            <summary>  
+            手续费  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.Remark">
+            <summary>  
+            备注  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.ErrorMessage">
+            <summary>  
+            审核失败原因  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.BankName">
+            <summary>  
+            开户银行名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.BankAddress">
+            <summary>  
+            开户网点地址  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.BankPosition">
+            <summary>  
+            开户网点名称  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.BankAccount">
+            <summary>  
+            银行卡帐号  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.CardType">
+            <summary>  
+            银行卡类型  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.HolderName">
+            <summary>  
+            开户人真实姓名  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.UpdatedOn">
+            <summary>  
+            更新日期  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.CreatedOn">
+            <summary>  
+            创建时间  
+            </summary>
+        </member>
+        <member name="P:Data.Entities.Withdrawrecord.ReviewOn">
+            <summary>  
+            审核时间  
+            </summary>
+        </member>
+    </members>
+</doc>

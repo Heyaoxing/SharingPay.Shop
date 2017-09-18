@@ -1,0 +1,10 @@
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\IBusiness.Services.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\IBusiness.Services.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\Data.Entities.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\Data.Entities.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\Data.Entities.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\bin\Debug\Common.DataEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\obj\Debug\IBusiness.Services.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\obj\Debug\IBusiness.Services.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Services\IBusiness.Services\obj\Debug\IBusiness.Services.pdb

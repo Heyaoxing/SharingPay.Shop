@@ -1,0 +1,10 @@
+<Elasticsearch>
+    <!--CalssName表示类名,EsName表示es中存储的文档名,IdProperty:表示定义的id,Descript:备注-->
+  <Model CalssName="TrackInfoIndex" EsName="trackinfo" IdProperty="id" Descript="">
+    <!--FieldNamee表示字段,EsName表示es中存储的文档名,Type包含:String,Int、Long、Double、Float、DateTime. Boost:加权值,值越大得分越高 ,NullValue:插入文档时，如果数据为NULL时的默认值 -->
+    <Field FieldName="Id" EsName="id" Type="String"  Boost="1" NullValue=""/>
+    <Field FieldName="FilterTrackingNumber" EsName="to" Type="Int"  Boost="1" NullValue="0"/>
+    <!--DateTime的默认值 now、min、max-->
+    <Field FieldName="InfoCreatedOn" EsName="ico" Type="DateTime"  Boost="1" NullValue="now"/>  
+  </Model>
+</Elasticsearch>

@@ -1,0 +1,8 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\bin\Debug\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\bin\Debug\Common.DataEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\obj\Debug\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.DataEntity\obj\Debug\Common.DataEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.DataEntity\bin\Debug\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.DataEntity\bin\Debug\Common.DataEntity.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.DataEntity\obj\Debug\Common.DataEntity.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.DataEntity\obj\Debug\Common.DataEntity.pdb

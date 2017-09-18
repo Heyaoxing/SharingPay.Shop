@@ -1,0 +1,14 @@
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\bin\Debug\Common.RabbitMQ.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\bin\Debug\Common.RabbitMQ.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.dll
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.pdb
+F:\SVN\SourceCodes\SharingPay\SharingPay.AdminCenter\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.csprojResolveAssemblyReference.cache
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\bin\Debug\Common.RabbitMQ.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\bin\Debug\Common.RabbitMQ.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.dll
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.pdb
+F:\SVN\SourceCodes\SharingPay\SharingShop\trunk\Common\Common.RabbitMQ\obj\Debug\Common.RabbitMQ.csprojResolveAssemblyReference.cache
